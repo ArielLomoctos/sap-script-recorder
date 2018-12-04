@@ -1,0 +1,3 @@
+
+session.findById("wnd[0]").resizeWorkingPane 105, 17, 0
+session.findById("wnd[0]/usr/ctxtROIFA0105-PBLNR").text = ""

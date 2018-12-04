@@ -1,0 +1,50 @@
+
+* Copyright
+Die Urheberrechte des Programms liegen bei Stefan Schnell. Eine Veränderung,
+Dekompilierung oder Disassemblierung ist untersagt.
+Produktnamen, Logos und Warenzeichen werden, sofern verwendet, ausschließlich
+aus redaktionellen Gründen verwendet und sind das Eigentum der jeweiligen
+Inhaber, auch wenn explizit kein entsprechender Hinweis darauf erfolgt.
+
+* Gewährleistungs- und Haftungsausschluss
+Diese Software wurde mit hoher Sorgfalt erstellt. Das alleine sorgt jedoch
+nicht für eine fehlerfreie Funktion, da diese auch im hohen Maße von der
+vorhandenen Soft- und Hardwareinstallation sowie deren Konfiguration abhängig
+ist. Für eventuell entstehende Schäden wird keine Haftung und
+keine Verantwortung übernommen. Ein Betrieb dieser Software geschieht
+vollständig auf eigene Gefahr und ausschließlich auf eigenes Risiko. Durch den
+Download, die Installation oder den Betrieb dieser Software stimmt der Betreiber
+diesen Bedingungen zu. Ebenso wird auch nicht zugesichert, dass die beschriebenen
+Funktionen einwandfrei auf allen Computern ausgeführt werden.
+
+* Systemvoraussetzungen
+Das Program funktioniert ausschließlich mit dem Betriebssystem Microsoft®
+Windows©. Als Version wird hier mindestens Windows© XP vorausgesetzt.
+Niedrigere Betriebssystemversionen werden nicht unterstützt.
+Ebenso wird ein aktueller installierter SAP® GUI für Windows erwartet,
+sowie ein aktiviertes SAP® GUI Scripting.
+
+
+* Copyright
+The copyright of this programme is by myself, Stefan Schnell. Any
+changing, decompilation or disassembling is forbidden.
+Using product names, logos and trademarks are only for editorial
+reasons. They are the property of their owners, even if no hint is
+carried out explicitily.
+
+* Guarantee exclusion
+This software was made with high care. This alone provides not for
+fault-free function, because it is dependent from the available software
+and hardware installation as well as its configuration. Any liability
+claims are declined. For damages no liability and no responsibility
+are assumed. An operation of this software happens completely at your
+own risk. With the download, the installation or the operation of this
+software these conditions are agreed to. It is not assured that the
+described functions being executed faultlessly on all computers.
+
+* System requirement
+This Program works only with the operating system Microsoft®
+Windows©. The minimum is Windows© XP, lower operating system versions
+are not supported.
+Also you need an actual installed SAP® GUI for Windows and the SAP® GUI
+Scripting must be activated.
